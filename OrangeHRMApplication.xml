@@ -1,0 +1,24 @@
+<suite name="OrangeHRMApplication" parallel="tests">
+   
+   <test name="LogInPage">
+      <classes>
+         <class name="com.OrangeHRMApplicationIntegrated.OrangeHRM_Login_Page"/>
+      </classes>
+    </test>
+   
+   
+     <test name="AddEmployeePage">
+      <classes>
+         <class name="com.OrangeHRMApplicationIntegrated.OrangeHRM_Add_Employee_Page"/>
+      </classes>
+  </test>
+
+<test name="EmployeeListPage">
+      <classes>
+         <class name="com.OrangeHRMApplicationIntegrated.OrangeHRM_Employee_List_Page"/>
+      </classes>
+  </test>
+   
+   
+   
+</suite>

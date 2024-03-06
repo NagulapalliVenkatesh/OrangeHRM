@@ -1,0 +1,36 @@
+[TestNG-tests-3] INFO Log - ***Chrome Launched Successfully***
+[TestNG-tests-1] INFO Log - ***Chrome Launched Successfully***
+[TestNG-tests-2] INFO Log - ***Chrome Launched Successfully***
+[TestNG-tests-3] INFO Log - ***OrangeHRM Application Launched Successfully***
+[TestNG-tests-1] INFO Log - ***OrangeHRM Application Launched Successfully***
+[TestNG-tests-2] INFO Log - ***OrangeHRM Application Launched Successfully***
+[TestNG-tests-2] INFO Log - Adding data to the Excel Sheet is successfull
+[TestNG-tests-1] INFO Log - Adding data to the Excel Sheet is successfull
+[TestNG-tests-1] INFO Log - OrangeHRM Application Login Page Image is Displayed
+[TestNG-tests-2] INFO Log - OrangeHRM Application Login Page Image is Displayed
+[TestNG-tests-2] INFO Log - OrangeHRM Application Login Page Validation Is Successfull
+[TestNG-tests-2] INFO Log - Validation Of Login Page Text Is Successfull
+[TestNG-tests-2] INFO Log - Identifying PIM in OrangeHRM Application Is Successfull
+[TestNG-tests-2] INFO Log - Identifying Add Employee in OrangeHRM Application Is Successfull
+[TestNG-tests-2] INFO Log - Validation Of Login Page Title is Successfull
+[TestNG-tests-2] INFO Log - Validation Of Home Page Text is Successfull
+[TestNG-tests-3] INFO Log - Identifying Employee List in OrangeHRM Application is Successfull
+[TestNG-tests-3] INFO Log - Filling Excel sheet with Employee List data is Successfull
+[TestNG-tests-3] INFO Log - ***OrangeHRM Application Closed Successfully***
+[TestNG-tests-2] INFO Log - OrangeHRM Application Add Employee Page Picture Is Dispalyed
+[TestNG-tests-2] INFO Log - OrangeHRM Application Add Employee Page Picture Is Dispalyed
+[TestNG-tests-2] INFO Log - OrangeHRM Application Add Employee Page Picture Is Dispalyed
+[TestNG-tests-2] INFO Log - Filling Excel Sheet with Actual Results Of Add Employee Page is Successfull
+[TestNG-tests-2] INFO Log - OrangeHRM Application Add Employee Page Text Validation is Successfull
+[TestNG-tests-2] INFO Log - OrangeHRM Application Personal Details Page Text Validation is Successfull
+[TestNG-tests-2] INFO Log - OrangeHRM Application First Name Validation is Successfull
+[TestNG-tests-2] INFO Log - OrangeHRM Application Middle Name Validation
+[TestNG-tests-2] INFO Log - OrangeHRM Application Last Name Validation
+[TestNG-tests-2] INFO Log - OrangeHRM Application Last Name Validation
+[TestNG-tests-2] INFO Log - OrangeHRM Application Last Name Validation
+[TestNG-tests-2] INFO Log - ***OrangeHRM Application Closed Successfully***
+[TestNG-tests-1] INFO Log - OrangeHRM Application Login Page Validation Successfull
+[TestNG-tests-1] INFO Log - Validation Of Login Page Text is Successfull
+[TestNG-tests-1] INFO Log - Validation Of Login Page Title is Successfull
+[TestNG-tests-1] INFO Log - Validation Of Home Page Text is Successfull
+[TestNG-tests-1] INFO Log - ***OrangeHRM Application Closed Successfully***

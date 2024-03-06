@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="22" passed="22" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-05T12:15:34 IST" name="OrangeHRMApplication" finished-at="2024-03-05T12:16:41 IST" duration-ms="67650">
+    <groups>
+    </groups>
+    <test started-at="2024-03-05T12:15:34 IST" name="EmployeeListPage" finished-at="2024-03-05T12:16:09 IST" duration-ms="35193">
+      <class name="com.OrangeHRMApplicationIntegrated.OrangeHRM_Employee_List_Page">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.OrangeHRMApplicationIntegrated.OrangeHRM_Employee_List_Page@3f6f6701]" started-at="2024-03-05T12:15:34 IST" name="setUp" finished-at="2024-03-05T12:15:45 IST" duration-ms="11258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="employeeList()[pri:1, instance:com.OrangeHRMApplicationIntegrated.OrangeHRM_Employee_List_Page@3f6f6701]" started-at="2024-03-05T12:15:45 IST" name="employeeList" description="Identifying Employee List in OrangeHRM Application" finished-at="2024-03-05T12:16:04 IST" duration-ms="19205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- employeeList -->
+        <test-method signature="employeeListData()[pri:2, instance:com.OrangeHRMApplicationIntegrated.OrangeHRM_Employee_List_Page@3f6f6701]" started-at="2024-03-05T12:16:04 IST" name="employeeListData" description="Filling Excel sheet with Employee List data" finished-at="2024-03-05T12:16:09 IST" duration-ms="4450" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- employeeListData -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.OrangeHRMApplicationIntegrated.OrangeHRM_Employee_List_Page@3f6f6701]" started-at="2024-03-05T12:16:09 IST" name="tearDown" finished-at="2024-03-05T12:16:09 IST" duration-ms="144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.OrangeHRMApplicationIntegrated.OrangeHRM_Employee_List_Page -->
+    </test> <!-- EmployeeListPage -->
+    <test started-at="2024-03-05T12:15:34 IST" name="AddEmployeePage" finished-at="2024-03-05T12:16:36 IST" duration-ms="62309">
+      <class name="com.OrangeHRMApplicationIntegrated.OrangeHRM_Add_Employee_Page">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.OrangeHRMApplicationIntegrated.OrangeHRM_Add_Employee_Page@273e7444]" started-at="2024-03-05T12:15:34 IST" name="setUp" finished-at="2024-03-05T12:15:45 IST" duration-ms="11591" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="excel_TestData()[pri:1, instance:com.OrangeHRMApplicationIntegrated.OrangeHRM_Add_Employee_Page@273e7444]" started-at="2024-03-05T12:15:45 IST" name="excel_TestData" description="Adding data to the Excel Sheet" finished-at="2024-03-05T12:15:46 IST" duration-ms="905" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- excel_TestData -->
+        <test-method signature="login_PageValidation()[pri:2, instance:com.OrangeHRMApplicationIntegrated.OrangeHRM_Add_Employee_Page@273e7444]" started-at="2024-03-05T12:15:46 IST" name="login_PageValidation" description="OrangeHRM Application Login Page Validation" finished-at="2024-03-05T12:15:53 IST" duration-ms="6923" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_PageValidation -->
+        <test-method signature="loginPageText_Validation()[pri:3, instance:com.OrangeHRMApplicationIntegrated.OrangeHRM_Add_Employee_Page@273e7444]" started-at="2024-03-05T12:15:53 IST" name="loginPageText_Validation" description="Validation Of Login Page Text" finished-at="2024-03-05T12:15:53 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageText_Validation -->
+        <test-method signature="PIM()[pri:4, instance:com.OrangeHRMApplicationIntegrated.OrangeHRM_Add_Employee_Page@273e7444]" started-at="2024-03-05T12:15:53 IST" name="PIM" description="Identifying PIM in OrangeHRM Application" finished-at="2024-03-05T12:15:53 IST" duration-ms="464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PIM -->
+        <test-method signature="addEmployee()[pri:5, instance:com.OrangeHRMApplicationIntegrated.OrangeHRM_Add_Employee_Page@273e7444]" started-at="2024-03-05T12:15:53 IST" name="addEmployee" description="Identifying Add Employee in OrangeHRM Application" finished-at="2024-03-05T12:16:02 IST" duration-ms="8615" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addEmployee -->
+        <test-method signature="loginPageTitle_Validation()[pri:6, instance:com.OrangeHRMApplicationIntegrated.OrangeHRM_Add_Employee_Page@273e7444]" started-at="2024-03-05T12:16:02 IST" name="loginPageTitle_Validation" description="Validation Of Login Page Title" finished-at="2024-03-05T12:16:02 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitle_Validation -->
+        <test-method signature="homePageText_Validation()[pri:7, instance:com.OrangeHRMApplicationIntegrated.OrangeHRM_Add_Employee_Page@273e7444]" started-at="2024-03-05T12:16:02 IST" name="homePageText_Validation" description="Validation Of Home Page Text" finished-at="2024-03-05T12:16:02 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageText_Validation -->
+        <test-method signature="addEmployeePage()[pri:8, instance:com.OrangeHRMApplicationIntegrated.OrangeHRM_Add_Employee_Page@273e7444]" started-at="2024-03-05T12:16:02 IST" name="addEmployeePage" description="Filling Excel Sheet with Actual Results Of Add Employee Page" finished-at="2024-03-05T12:16:36 IST" duration-ms="33489" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addEmployeePage -->
+        <test-method signature="addEmployeeText_Validation()[pri:9, instance:com.OrangeHRMApplicationIntegrated.OrangeHRM_Add_Employee_Page@273e7444]" started-at="2024-03-05T12:16:36 IST" name="addEmployeeText_Validation" description="OrangeHRM Application Add Employee Page Text Validation" finished-at="2024-03-05T12:16:36 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addEmployeeText_Validation -->
+        <test-method signature="PersonalDetailsPageText_Validation()[pri:10, instance:com.OrangeHRMApplicationIntegrated.OrangeHRM_Add_Employee_Page@273e7444]" started-at="2024-03-05T12:16:36 IST" name="PersonalDetailsPageText_Validation" description="OrangeHRM Application Personal Details Page Text Validation" finished-at="2024-03-05T12:16:36 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PersonalDetailsPageText_Validation -->
+        <test-method signature="firstName_Validation()[pri:11, instance:com.OrangeHRMApplicationIntegrated.OrangeHRM_Add_Employee_Page@273e7444]" started-at="2024-03-05T12:16:36 IST" name="firstName_Validation" description="OrangeHRM Application First Name Validation" finished-at="2024-03-05T12:16:36 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstName_Validation -->
+        <test-method signature="middleName_Validation()[pri:12, instance:com.OrangeHRMApplicationIntegrated.OrangeHRM_Add_Employee_Page@273e7444]" started-at="2024-03-05T12:16:36 IST" name="middleName_Validation" description="OrangeHRM Application Middle Name Validation" finished-at="2024-03-05T12:16:36 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- middleName_Validation -->
+        <test-method signature="lastName_Validation()[pri:13, instance:com.OrangeHRMApplicationIntegrated.OrangeHRM_Add_Employee_Page@273e7444]" started-at="2024-03-05T12:16:36 IST" name="lastName_Validation" description="OrangeHRM Application Last Name Validation" finished-at="2024-03-05T12:16:36 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lastName_Validation -->
+        <test-method signature="employeeID_Validation()[pri:14, instance:com.OrangeHRMApplicationIntegrated.OrangeHRM_Add_Employee_Page@273e7444]" started-at="2024-03-05T12:16:36 IST" name="employeeID_Validation" description="OrangeHRM Application Employee Id Validation" finished-at="2024-03-05T12:16:36 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- employeeID_Validation -->
+        <test-method signature="loginPanelText_Validation()[pri:15, instance:com.OrangeHRMApplicationIntegrated.OrangeHRM_Add_Employee_Page@273e7444]" started-at="2024-03-05T12:16:36 IST" name="loginPanelText_Validation" description="OrangeHRM Application Logout Login Panel Text Validation" finished-at="2024-03-05T12:16:36 IST" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPanelText_Validation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.OrangeHRMApplicationIntegrated.OrangeHRM_Add_Employee_Page@273e7444]" started-at="2024-03-05T12:16:36 IST" name="tearDown" finished-at="2024-03-05T12:16:36 IST" duration-ms="174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.OrangeHRMApplicationIntegrated.OrangeHRM_Add_Employee_Page -->
+    </test> <!-- AddEmployeePage -->
+    <test started-at="2024-03-05T12:15:34 IST" name="LogInPage" finished-at="2024-03-05T12:16:41 IST" duration-ms="67650">
+      <class name="com.OrangeHRMApplicationIntegrated.OrangeHRM_Login_Page">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.OrangeHRMApplicationIntegrated.OrangeHRM_Login_Page@741a8937]" started-at="2024-03-05T12:15:34 IST" name="setUp" finished-at="2024-03-05T12:15:45 IST" duration-ms="11473" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="excel_TestData()[pri:1, instance:com.OrangeHRMApplicationIntegrated.OrangeHRM_Login_Page@741a8937]" started-at="2024-03-05T12:15:45 IST" name="excel_TestData" description="Adding data to the Excel Sheet" finished-at="2024-03-05T12:15:46 IST" duration-ms="1034" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- excel_TestData -->
+        <test-method signature="login_PageValidation()[pri:2, instance:com.OrangeHRMApplicationIntegrated.OrangeHRM_Login_Page@741a8937]" started-at="2024-03-05T12:15:46 IST" name="login_PageValidation" description="OrangeHRM Application Login Page Validation" finished-at="2024-03-05T12:16:41 IST" duration-ms="54863" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_PageValidation -->
+        <test-method signature="loginPageText_Validation()[pri:3, instance:com.OrangeHRMApplicationIntegrated.OrangeHRM_Login_Page@741a8937]" started-at="2024-03-05T12:16:41 IST" name="loginPageText_Validation" description="Validation Of Login Page Text" finished-at="2024-03-05T12:16:41 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageText_Validation -->
+        <test-method signature="loginPageTitle_Validation()[pri:4, instance:com.OrangeHRMApplicationIntegrated.OrangeHRM_Login_Page@741a8937]" started-at="2024-03-05T12:16:41 IST" name="loginPageTitle_Validation" description="Validation Of Login Page Title" finished-at="2024-03-05T12:16:41 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitle_Validation -->
+        <test-method signature="homePageText_Validation()[pri:5, instance:com.OrangeHRMApplicationIntegrated.OrangeHRM_Login_Page@741a8937]" started-at="2024-03-05T12:16:41 IST" name="homePageText_Validation" description="Validation Of Home Page Text" finished-at="2024-03-05T12:16:41 IST" duration-ms="55" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageText_Validation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.OrangeHRMApplicationIntegrated.OrangeHRM_Login_Page@741a8937]" started-at="2024-03-05T12:16:41 IST" name="tearDown" finished-at="2024-03-05T12:16:41 IST" duration-ms="183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.OrangeHRMApplicationIntegrated.OrangeHRM_Login_Page -->
+    </test> <!-- LogInPage -->
+  </suite> <!-- OrangeHRMApplication -->
+</testng-results>
